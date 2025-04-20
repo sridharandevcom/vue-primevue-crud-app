@@ -49,12 +49,9 @@ This is a simple **Employee CRUD (Create, Read, Update, Delete) application** bu
 ![Screenshot 3](./src/assets/Screenshot3.png)
 
 ### 🖼️ Screenshot 4
-![Screenshot 4](./src/assets/Screenshot4.png)
-
-### 🖼️ Screenshot 5
 ![Screenshot 5](./src/assets/Screenshot5.png)
 
-### 🖼️ Screenshot 6
+### 🖼️ Screenshot 5
 ![Screenshot 6](./src/assets/Screenshot6.png)
 
 
