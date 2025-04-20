@@ -39,22 +39,22 @@ This is a simple **Employee CRUD (Create, Read, Update, Delete) application** bu
 ## 📸 Screenshot
 
 ### 🖼️ Screenshot 1
-![Screenshot 1](./src/assets/screenshot1.png)
+![Screenshot 1](./src/assets/Screenshot1.png)
 
 ### 🖼️ Screenshot 2
-![Screenshot 2](./src/assets/screenshot2.png)
+![Screenshot 2](./src/assets/Screenshot2.png)
 
 ### 🖼️ Screenshot 3
-![Screenshot 3](./src/assets/screenshot3.png)
+![Screenshot 3](./src/assets/Screenshot3.png)
 
 ### 🖼️ Screenshot 4
-![Screenshot 4](./src/assets/screenshot4.png)
+![Screenshot 4](./src/assets/Screenshot4.png)
 
 ### 🖼️ Screenshot 5
-![Screenshot 5](./src/assets/screenshot5.png)
+![Screenshot 5](./src/assets/Screenshot5.png)
 
 ### 🖼️ Screenshot 6
-![Screenshot 6](./src/assets/screenshot6.png)
+![Screenshot 6](./src/assets/Screenshot6.png)
 
 
 ## 🛠️ Project Setup
