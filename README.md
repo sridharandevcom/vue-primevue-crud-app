@@ -23,14 +23,15 @@ This is a simple **Employee CRUD (Create, Read, Update, Delete) application** bu
 
 
 ## 📁 Project Structure
-├── public/ 
-├── src/ 
-│    ├── assets/ 
-│    ├── components/ 
-│    |    └── EmployeeComponent.vue 
-│    ├── App.vue 
-|    └── main.ts 
-├── index.html 
+```
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ │ └── EmployeeComponent.vue
+│ ├── App.vue
+│ └── main.ts
+├── index.html
 └── vite.config.ts
 
 ## 📸 Screenshot
