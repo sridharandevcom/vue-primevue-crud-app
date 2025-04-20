@@ -33,6 +33,8 @@ This is a simple **Employee CRUD (Create, Read, Update, Delete) application** bu
 │ └── main.ts
 ├── index.html
 └── vite.config.ts
+```
+
 
 ## 📸 Screenshot
 
