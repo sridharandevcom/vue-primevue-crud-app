@@ -19,7 +19,8 @@ This is a simple **Employee CRUD (Create, Read, Update, Delete) application** bu
 
 - [Vue 3](https://vuejs.org/)
 - [PrimeVue](https://www.primefaces.org/primevue/)
-- [Vite](https://vitejs.dev/) (for lightning-fast development)
+- [Vue CLI](https://cli.vuejs.org/) (for project scaffolding and development)
+
 
 
 ## 📁 Project Structure
